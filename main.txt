@@ -1,0 +1,20 @@
+#include <stdio.h>
+<<<<<<< HEAD
+
+#include "askname.h"
+
+int main(int argc, char **argv)
+{
+    char first[255], last[255];
+
+    askname(first, last);
+
+    printf("Hello, %s %s!\n", first, last);
+=======
+
+int main(int argc, char **argv)
+{
+    printf("Hello world!\n");
+>>>>>>> parent of a3098f3 (Use proper grammar)
+    return 0;
+}
