@@ -15,6 +15,7 @@ int main(int argc, char **argv)
 int main(int argc, char **argv)
 {
     printf("Hello world!\n");
+        printf("iDK what to write there\n");
 >>>>>>> parent of a3098f3 (Use proper grammar)
     return 0;
 }
